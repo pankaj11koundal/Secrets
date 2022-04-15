@@ -21,7 +21,7 @@
   "description": "The understanding project related to the security and authentication\"",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pankaj Singh",
   "license": "ISC",
