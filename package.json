@@ -21,7 +21,7 @@
   "description": "The understanding project related to the security and authentication\"",
   "main": "app.js",
   "scripts": {
-    "start": "node your-script.js"
+    "start": "node app.js"
   },
   "author": "Pankaj Singh",
   "license": "ISC",
